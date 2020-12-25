@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <color name="primary">#e02041</color>
+    <!-- Cor da Status Bar durante Splash-->
+    <color name="colorPrimaryDark">#e02041</color>
+</resources>
